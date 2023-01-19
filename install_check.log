@@ -1,0 +1,8 @@
+Install checked: 
+
+SYSTEM:	Darwin nicks-mbp-7.wireless-1x.unc.edu 22.1.0 Darwin Kernel Version 22.1.0: Sun Oct  9 20:14:30 PDT 2022; root:xnu-8792.41.9~2/RELEASE_ARM64_T8103 arm64
+SHELL:	[/bin/zsh]
+GIT:	[/usr/bin/git] git version 2.37.1 (Apple Git-137.1)
+VIM:	[/usr/bin/vim] VIM - Vi IMproved 9.0 (2022 Jun 28, compiled Sep 30 2022 03:10:57)
+CURL:	[/Users/nwherthey16/opt/anaconda3/bin/curl] curl 7.82.0 (x86_64-apple-darwin13.4.0) libcurl/7.82.0 OpenSSL/1.1.1n zlib/1.2.12 libssh2/1.10.0 nghttp2/1.46.0
+NODE:	[/Users/nwherthey16/.nvm/versions/node/v18.13.0/bin/node] v18.13.0
